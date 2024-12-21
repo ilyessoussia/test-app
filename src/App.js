@@ -107,7 +107,7 @@ function App() {
         <div>
           {/* Header */}
           <header className="header">
-            <div className="logo">TUNICONSULTING</div>
+            <div className="logo">Accrecert</div>
             <nav className="nav-links">
               <a href="#home">Home</a>
               <div className="dropdown">
@@ -433,7 +433,7 @@ function App() {
       <footer className="footer">
         <div className="footer-container">
           <div className="footer-info">
-            <h3 className="footer-title">TUNICONSULTING</h3>
+            <h3 className="footer-title">Accrecert</h3>
             <p className="footer-description">
               Your partner in ISO certification, business growth, and continuous improvement.
             </p>
@@ -464,7 +464,7 @@ function App() {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2024 TUNICONSULTING. All rights reserved.</p>
+          <p>© 2024 Accrecert. All rights reserved.</p>
         </div>
       </footer>
     </div>
